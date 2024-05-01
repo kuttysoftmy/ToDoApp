@@ -49,7 +49,7 @@ export const styles = StyleSheet.create({
   },
   buttonText: {
     color: '#fff', // White text color
-    fontSize: 18, // Font size
+    fontSize: 14, // Font size
     fontWeight: 'bold', // Bold text
   },
   taskList: {
@@ -87,4 +87,15 @@ export const styles = StyleSheet.create({
     borderRadius: 5,
     padding: 5,
   },
+  scrollContainer: {
+    flexGrow: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    paddingBottom: 20,
+  },
+  
+    
+  
+  
 });
+
