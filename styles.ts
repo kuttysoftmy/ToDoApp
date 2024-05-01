@@ -7,8 +7,8 @@ export const styles = StyleSheet.create({
     backgroundColor: '#f9f9f9',
     paddingHorizontal: 20,
     paddingTop: 40,
-    justifyContent: 'center', // Center content vertically
-    alignItems: 'center', // Center content horizontally
+    justifyContent: 'center', 
+    alignItems: 'center', 
   },
   inputWrapper: {
     flexDirection: 'row',
@@ -40,26 +40,26 @@ export const styles = StyleSheet.create({
     textAlign: 'center',
   },
   addButton: {
-    backgroundColor: '#2D9596', // Green background color
-    borderRadius: 8, // Rounded corners
-    paddingVertical: 12, // Vertical padding
-    paddingHorizontal: 20, // Horizontal padding
-    marginTop: 10, // Space between input and button
-    alignItems: 'center', // Center content horizontally
+    backgroundColor: '#2D9596', 
+    borderRadius: 8, 
+    paddingVertical: 12, 
+    paddingHorizontal: 20,
+    marginTop: 10, 
+    alignItems: 'center', 
   },
   buttonText: {
-    color: '#fff', // White text color
-    fontSize: 14, // Font size
-    fontWeight: 'bold', // Bold text
+    color: '#fff',
+    fontSize: 14,
+    fontWeight: 'bold', 
   },
   taskList: {
-    alignItems: 'center', // Center tasks horizontally
+    alignItems: 'center', 
   },
   listItem: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    width: '70%', // Set width for task list
+    width: '70%', 
     marginBottom: 10,
   },
   task: {
@@ -77,15 +77,20 @@ export const styles = StyleSheet.create({
     borderRadius: 8,
     padding: 5,
     marginRight: 5,
-    paddingVertical: 12, // Vertical padding
-    paddingHorizontal: 20, // Horizontal padding
-    marginTop: 10, // Space between input and button
-    alignItems: 'center', // Center content horizontally
+    paddingVertical: 12, 
+    paddingHorizontal: 20, 
+    marginTop: 10, 
+    alignItems: 'center', 
   },
   deleteButton: {
     backgroundColor: '#074173',
-    borderRadius: 5,
+    borderRadius: 8,
     padding: 5,
+    marginRight: 5,
+    paddingVertical: 12, 
+    paddingHorizontal: 20, 
+    marginTop: 10, 
+    alignItems: 'center', 
   },
   scrollContainer: {
     flexGrow: 1,
@@ -98,4 +103,3 @@ export const styles = StyleSheet.create({
   
   
 });
-
