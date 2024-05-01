@@ -39,6 +39,7 @@ export default function App() {
     <ScrollView contentContainerStyle={styles.scrollContainer}>
       <View style={styles.container}>
         <Text style={styles.title}>TASKEASE - MY TO DO LIST</Text>
+       
         <View style={styles.inputWrapper}>
           <TextInput
             placeholder="ENTER YOUR TASK"
