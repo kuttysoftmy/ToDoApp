@@ -112,7 +112,6 @@ export const styles = StyleSheet.create({
     backgroundColor:'#9AC8CD'
   },
   
-    
   
   
 });
