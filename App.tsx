@@ -77,7 +77,7 @@ export default function App() {
               onPress={() => toggleComplete(index)}
             >
               <Text style={styles.buttonText}>
-                {toDo.completed ? "Mark as to be done" : "Mark as Completed"}
+                {toDo.completed ? "To Do" : "Done"}
               </Text>
             </Pressable>
             <Pressable
@@ -86,7 +86,7 @@ export default function App() {
                 removeItem(index);
               }}
             >
-              <Text style={styles.buttonText}>Remove</Text>
+              <Text style={styles.buttonText}> X </Text>
             </Pressable>
           </View>
         ))}
