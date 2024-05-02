@@ -27,15 +27,18 @@ To get started with TASKEASE on your local machine, follow these steps:
 
 2. Navigate to the Project Directory:
 
-  cd todoapp
+   ```bash
+   cd todoapp
 
 3. Install Dependencies:
    
-  npm install
+   ```bash
+   npm install
 
 4. Start the Expo Development Server:
 
-   npx expo start
+    ```bash
+    npx expo start
 
 5. Run the App on Expo Go:
    - Open the Expo Go app on your iOS or Android device.
