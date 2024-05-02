@@ -2,7 +2,7 @@
 
 TASKEASE is a simple ToDo list application built using React Native with TypeScript, styled with Tailwind CSS, and deployed using Expo Go. This app allows users to manage their tasks efficiently with features like adding new tasks, marking tasks as completed, and deleting tasks.
 
-![TASKEASE - MY TO DO LIST Demo](https://github.com/CHINMAY02CS/ToDoApp/blob/main/ToDoApp_Chinmay%20S.mp4)
+![TASKEASE - MY TO DO LIST Demo](https://github.com/CHINMAY02CS/ToDoApp/blob/main/Home.png)
 
 ## Features
 
